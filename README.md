@@ -8,8 +8,10 @@ http://keycloak.org
 Keycloak is an open source project by RedHat for identity and access management. It supports public client authentication with JWT and single-sign-on.
 
 ## Backend REST APIs
-### Server: NodeJS and ExpressJS
-https://nodejs.org, https://expressjs.com/
+An example/boilerplate/starter of this setup is available at [modular-hapi-sequelize-lab](https://github.com/GazePgh/modular-hapi-sequelize-lab)
+
+### Server: NodeJS and hapi.js
+https://nodejs.org, https://hapijs.com/
 
 Our preferred backend is nodejs with express, but the language and framework doesn't matter so much as long as it is a REST API with JSON.
 
