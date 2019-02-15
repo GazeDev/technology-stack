@@ -1,5 +1,5 @@
 # Technology-Stack
-A description of the preferred technology stack for Gaze Pgh applications.
+A description of the preferred technology stack for GazePgh applications.
 
 ## Identity and Access Management: Keycloak
 
@@ -13,7 +13,7 @@ An example/boilerplate/starter of this setup is available at [modular-hapi-seque
 ### Server: NodeJS and hapi.js
 https://nodejs.org, https://hapijs.com/
 
-Our preferred backend is nodejs with express, but the language and framework doesn't matter so much as long as it is a REST API with JSON.
+Our preferred backend is nodejs with hapi.js, but the language and framework doesn't matter so much as long as it is a REST API with JSON.
 
 ### Database: PostgreSQL
 https://www.postgresql.org/
